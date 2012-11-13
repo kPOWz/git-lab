@@ -1,5 +1,5 @@
 This is where it all begins.
-
+This is the version of the project where I cloned the fork I'd made
 These lines will need to be edited. Please ammend them to include the
 important information for each step.
 
